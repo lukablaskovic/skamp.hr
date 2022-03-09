@@ -112,7 +112,7 @@
     <!--Google maps-->
     <div class="overflow-hidden w-full md:w-1/2 xl:mr-16 md:mt-24">
       <GoogleMap
-        api-key="AIzaSyCAx1d5yyFL-_3NX2D12OUMgwQ7XMZtEr4"
+        api-key="hidden"
         style="width: 100%; height: 400px"
         :center="center"
         :zoom="14"

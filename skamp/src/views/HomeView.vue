@@ -353,7 +353,7 @@
       <!--Google maps-->
       <div class="overflow-hidden mt-4 md:mt-8 md:ml-24 md:mr-24">
         <GoogleMap
-          api-key="AIzaSyC1bGd4Skv5XVAhFpB9IuIovNRAQR0rogk"
+          api-key="hidden"
           style="width: 100%; height: 500px"
           :center="center"
           :zoom="14"
